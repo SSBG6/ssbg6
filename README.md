@@ -8,5 +8,3 @@ Currently focused on:
 - Process Automation
 
 Berlin, Germany
-
-Open to internship and working student opportunities.
