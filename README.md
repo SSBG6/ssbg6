@@ -5,7 +5,6 @@ Interested in building data-driven products and AI-powered solutions.
 Currently focused on:
 - Machine Learning
 - Data Analytics
-- Software Development
 - Process Automation
 
 Berlin, Germany
